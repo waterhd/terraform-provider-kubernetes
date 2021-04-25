@@ -25,7 +25,7 @@ website/node_modules
 *.iml
 *.test
 *.iml
-
+.goreleaser.yml
 website/vendor
 
 # Test exclusions
